@@ -1,6 +1,3 @@
-## Thank You!
-First of all, thank you for your purchase! I'm really happiness and hope we can work again soon. If you encounter any issues or difficulties, send me a DM at discord.
-
 ## Creating a Google Maps API Key
 - Access [https://console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials) and create one. Google may ask for a credit card, but you won't have to pay anything. If you encounter difficulties at this step, feel free to ask for help!
 - For a school project, you can select 'no restriction' for the API key. You can also configure it for Android/iOS if you prefer, but it's more complex.
