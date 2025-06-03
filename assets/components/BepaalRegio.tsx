@@ -59,7 +59,7 @@ function BepaalRegio () {
 
         */
 
-        const API_KEY = `AIzaSyAs0lUHoF3PxTTIw4K99SFN5yAicWCfZ9Y`;
+        const API_KEY = `YOUR-KEY`;
         const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${API_KEY}`);
 
         try {
