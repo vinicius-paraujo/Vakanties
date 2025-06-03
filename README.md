@@ -1,3 +1,5 @@
+# Vakanties, A React Native project to display holidays from API
+
 <div style={ display: flex } >
   <img src="https://i.imgur.com/2ow3vCl.jpeg" width="25%">
   <img src="https://i.imgur.com/BsXHefR.jpeg" width="23.62%">
