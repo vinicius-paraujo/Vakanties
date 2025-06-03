@@ -53,12 +53,9 @@ function BepaalRegio () {
 
     const getUserRegion = async (latitude: number, longitude: number) => {
         /*
-
             In a real project, you'll need a backend server to handle this part.
-            Isn't advisable put API keys in your code, but for a school project, I don't think is a big deal.
-
+            Isn't advisable put API keys in your code, but for a school project, isn't exactly a problem.
         */
-
         const API_KEY = `YOUR-KEY`;
         const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${API_KEY}`);
 
