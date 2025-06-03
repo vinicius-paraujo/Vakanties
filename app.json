@@ -13,10 +13,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.jona.vakanties"
+      "bundleIdentifier": "com.markineo.vakanties"
     },
     "android": {
-      "package": "com.jona.vakanties",
+      "package": "com.markineo.vakanties",
       "assets": ["./assets/fonts/"],
       "assetBundlePatterns": [
         "**/*"
